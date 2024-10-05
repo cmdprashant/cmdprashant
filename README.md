@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cmdprashant
-- 👀 I’m interested in Development & AI/ML, DevOps.
+- 👀 I’m interested in Development, AI/ML & DevOps.
 - 🌱 I’m currently learning web development.
 
 
