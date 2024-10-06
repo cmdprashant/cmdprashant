@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cmdprashant
+#👋 Hi, I’m @cmdprashant
 - 👀 I’m interested in Development, AI/ML & DevOps.
 - 🌱 I’m currently learning web development.
-#  Tech lover
+
 
 <!---
 cmdprashant/cmdprashant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
