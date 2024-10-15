@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @cmdprashant
+# 👋 Hi, I’m Prashant 
 - 👀 I’m interested in Development, AI/ML & DevOps.
 - 🌱 I’m currently learning web development.
  
